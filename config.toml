@@ -5,7 +5,7 @@ REGISTRY_NAME = "tauffer-consulting"
 
 # The name of this Pieces repository
 REPOSITORY_NAME = "ml-library-blocks"
-REPOSITORY_LABEL = "ML Library Repository"
+REPOSITORY_LABEL = "ML Library Blocks"
 
 # The version of this Pieces release
 # Attention: changing this will create a new release
