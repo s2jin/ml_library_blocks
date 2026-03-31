@@ -9,7 +9,7 @@
         "machine_learning"
     ],
     "style": {
-        "node_label": "Inference Model Piece",
+        "node_label": "Inference Model",
         "node_style": {
             "backgroundColor": "#38b2be"
         },

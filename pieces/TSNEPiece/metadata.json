@@ -10,7 +10,7 @@
         "reduction"
     ],
     "style": {
-        "node_label": "t-SNE Piece",
+        "node_label": "t-SNE",
         "node_style": {
             "backgroundColor": "#38b2be"
         },

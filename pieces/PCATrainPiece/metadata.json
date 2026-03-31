@@ -10,7 +10,7 @@
         "reduction"
     ],
     "style": {
-        "node_label": "PCA Train Piece",
+        "node_label": "PCA Train",
         "node_style": {
             "backgroundColor": "#38b2be"
         },

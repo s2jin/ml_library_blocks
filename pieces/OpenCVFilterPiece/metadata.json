@@ -10,7 +10,7 @@
         "filter"
     ],
     "style": {
-        "node_label": "OpenCV Filter Piece",
+        "node_label": "OpenCV Filter",
         "node_style": {
             "backgroundColor": "#38b2be"
         },

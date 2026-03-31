@@ -10,7 +10,7 @@
         "reduction"
     ],
     "style": {
-        "node_label": "PCA Inference Piece",
+        "node_label": "PCA Inference",
         "node_style": {
             "backgroundColor": "#38b2be"
         },

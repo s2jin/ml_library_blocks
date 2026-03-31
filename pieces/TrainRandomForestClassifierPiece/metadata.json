@@ -9,7 +9,7 @@
         "machine_learning"
     ],
     "style": {
-        "node_label": "Train Random Forest Classifier Piece",
+        "node_label": "Train Random Forest Classifier",
         "node_style": {
             "backgroundColor": "#38b2be"
         },
